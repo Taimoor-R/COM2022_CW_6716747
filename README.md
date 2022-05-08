@@ -18,7 +18,9 @@ To Run this Implementation the following must be installed:
 -pip install mysql-connector-python
 
 
-Login Accounts:
+Login Accounts(case sensitive):
+
+Server Key(Same for All): network
 
 Account 1:
 - Username: timmy
