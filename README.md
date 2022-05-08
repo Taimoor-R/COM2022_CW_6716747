@@ -35,5 +35,8 @@ Create New Account:
 - Add Your Unique Username
 - Add Your Password
 
+To Run The Client and The Server:
 
+- python3 server.py
+- python3 client.py
 
