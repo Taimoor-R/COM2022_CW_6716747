@@ -12,7 +12,6 @@ import os
 import helper
 import binascii
 import time
-from ttkthemes import ThemedTk, THEMES
 #from mttkinter import *
 from tkinter import *
 #import mttkinter as tkinter
